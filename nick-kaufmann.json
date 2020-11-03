@@ -1,0 +1,12 @@
+{
+    "description": "Nick Kaufmann is a Developer!",
+    "repo": "https://github.com/nick-uncensored",
+    "owner": {
+        "username": "nick-uncensored",
+        "email": "nick@uncensored.tech"
+    },
+    "record": {
+        "CNAME": "tjm.dev",
+        "URL": "https://tyler.is-a.dev"
+    }
+}
